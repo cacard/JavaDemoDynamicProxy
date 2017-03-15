@@ -1,3 +1,4 @@
+package common;
 
 public class MyInterfaceImpl implements MyInterface {
 
